@@ -107,27 +107,27 @@ The following analyses were performed:
 
 ### Movies vs TV Shows
 
-![Movies vs TV Shows](visualizations/content_type.png)
+
 
 ### Missing Values
 
-![Missing Values](visualizations/missing_values.png)
+
 
 ### Release Year Analysis
 
-![Release Year](visualizations/release_year.png)
+
 
 ### Movie Duration
 
-![Movie Duration](visualizations/duration.png)
+
 
 ### Country Analysis
 
-![Countries](visualizations/countries.png)
+
 
 ### Correlation Analysis
 
-![Correlation](visualizations/correlation.png)
+
 
 ## 🔍 Key Insights
 
